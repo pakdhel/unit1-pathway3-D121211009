@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="full_name">Muhammad Fadhel H</string>
+    <string name="title">Android Developer Student</string>
+    <string name="phone_number">+6282277256900</string>
+    <string name="share_text">\@AndroidDev</string>
+    <string name="email">hmf21d@student.unhas.ac.id</string>
+</resources>
